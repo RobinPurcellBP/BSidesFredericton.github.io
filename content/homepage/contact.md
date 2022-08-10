@@ -10,4 +10,4 @@ header_menu: false
 
 {{<icon class="fa fa-facebook">}}&nbsp;[Bsides Fredericton](https://www.facebook.com/BSides-Fredericton-528991340777139)
 
-{{<icon class="fa fa-linkedin">}}&nbsp;[BsidesFredericton](https://www.linkedin.com/company/bsidesfredericton/))
+{{<icon class="fa fa-linkedin">}}&nbsp;[BsidesFredericton](https://www.linkedin.com/company/bsidesfredericton/)
