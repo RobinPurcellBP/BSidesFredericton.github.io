@@ -4,6 +4,7 @@ weight: 3
 header_menu: false
 ---
 
+---
 Platinum
 ![Platinum](images/Platnum2023.webp)
 ---
